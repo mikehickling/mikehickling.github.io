@@ -1,5 +1,11 @@
 /*Styles Page*/
 
+header {
+      text-align: center;
+      text-decoration: none;
+    }
+    
+
 p {
 	color: red;
 	font-weight: bold;
@@ -18,3 +24,19 @@ p {
 body {
 	background-color: rgba(0,0,255,.6);
 }
+
+ ul {
+      padding: 10px;
+      background: black;
+      text-align: center;
+    }
+
+ li {
+      display: inline;
+      padding: 50px 50px 50px 50px;
+      color: rgb(0, 0, 0);
+    }
+
+ a:link {
+ 	 text-decoration: none;
+ }
